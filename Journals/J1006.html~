@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="utf-8">
+          <title> <h2> CS-I Journal J1006 </h2> </title> 
+	    </head>
+ <body bgcolor="green">
+  <body>
+  
+<hr> 
+Journal 1006
+
+<p>1:1 What is git commuincating to you?
+I think its commuincating that I made my first file and when I did it.</p>
+
+<p>1:2:what do you see that is common between this git log command and the previous git commit?
+They both talk about the new file.</p>
+
+<p>1:3why do you think this is?
+Because doing this made a git file.</p>
+
+<p>2:1 what do you notice about file1.txt and file2.txt? how are they displayed in git status?
+They are displayed in green right next to each other.</p>
+
+<p>2:2 are they both displayed in the same section? if not, why not?
+I dont think they are, Im kind of confused.</p>
+
+<p>3:1 what do you notice about file1.txt and file2.txt? How are they displayed in git status?
+Well they are both green and one is on top of the other. As well as one says modified and one says new file.</p>
+
+<p>3:2 compare and contrast the manner in which the two files are displayed.
+One has a modified script to the left of it. While the other just has a new file one.</p>
+
+<p>4:1 How many files are listed as having been changed?
+1 file was changed when I typed something.</p>
+
+<p> 4:2 What are the specific differences listed for each file? In what color is the difference displayed?
+everything is listed in white and blue except my change which is highlighted in a green.</p>
+
+<p> 5:1 what does git tell you has changed? why?
+It doesnt tell me annything has changed. It just goes on to the text line.</p>
+
+    <h2>What did I learn? What is the "big idea"?</h2>
+        <p>I learned all about files and how to modifie them.</p>
+
+    <h2>What challenges did I encounter?</h2>
+        <p>I encountered challlenges when I was trying to find this file I didn't understand how to get back here. So I needed to get the help from Ms.Jang after asking my shoulder partners</p>
+
+    <h2>How could this experience be improved?</h2>
+        <p>This experience could be imporved if maybe there was a video tutorial or something, rather than just reading and coppying. </p>
+
+    <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+        <p>I now realize that this is much more complex than I previously thought. </p>
+
+  </body>
+  </html>
+  

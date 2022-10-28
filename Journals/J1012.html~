@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1012</title>
+  </head>
+ 
+  <body style="background-color:lightblue;">
+    <h1>CS-I Journal J1012: Shell</h1>
+    <p>Name: Luke Allen</p>
+    <p>Date: 28-Aug-2022</p>
+
+    <p>I received assistance from: No one </p>
+    <p>I assisted: no one </p>
+
+    <h2>Section 1</h2>
+    <h3>Question 1- Describe the genral process for executing addition, regardless of base.</h3>
+    <p> Its just a process where you add up to 10 (or whatever number system you are doing) and carrying it over onto the next collum.</p>
+
+    <h2>Section 2</h2>
+    <h3>Question 1:What secial factors need to be considered when exectuing addition with octal numbers?</h3>
+    <p> When adding octal numbers you have to consider that you have to round to the nearest 8th rather than 10.</p>
+    <h2> section 3</h2>
+    <h3>question 1:What specical factors need to be considered when executing addition with hexadeciaml numbers? </h3>
+    <p> When adding with hexadecimal numbers you have consider that you have to cary it over from 6 rather than the normal 10</p>
+
+    <h2> Section 4</h2>
+    <h3> question 1: What special factors need to be considered when excuting addition with binary numbers?</h3>
+<p> When adding bininary numbers you have to consider that they can only = up to 1 so the numbers are either 1 or 0 meaning you have to cary over the 1 everytime you go over 1.
+    
+
+    
+    <p> I learned that I should pay more attention to the canvas so that I do my work fast enough.</p>
+
+    <h2> It was a different type of math so it was a bit tricky at first.</h2>
+    <p>I encountered challlenges when I tired to learn the new math</p>
+
+    <h2>How could this experience be improved?</h2>
+    <p>This experience could be improved by giving better explinations or video tutorial</p>
+
+    <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+    <p>I now realize that there are more kinds of math out there than I realized.</p>
+    <br>
+     <a href="https://codermerlin.com/users/luke-allen/Digital%20Portfolio/CS-I/index.html">Back </a>          
+  </body>
+</html>
